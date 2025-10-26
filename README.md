@@ -4,7 +4,7 @@
 
 Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇
 
-🧱 Grundläggande formatering
+🧱 Grundläggande formatering  
 Effekt	Kod	Resultat
 Fetstil	**text** eller __text__	text
 Kursiv	*text* eller _text_	text
