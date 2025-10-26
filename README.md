@@ -7,8 +7,8 @@ Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇
 🧱 Grundläggande formatering
 
 | Effekt | Kod | Resultat |
-|------|-------|------|
-Fetstil  **text**  text
+|--------|-------|------|
+│Fetstil  │ **text** │ text │
 |Fetstil  **text** __	text
 Anna | 25    | Lund |
 | Bo   | 32    | Malmö |
