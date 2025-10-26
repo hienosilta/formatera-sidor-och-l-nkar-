@@ -13,7 +13,7 @@ Effekt.....		 Kod			Resultat
 │ Kursiv │ *text*   │ eller  _text_ │  
 
 
-| Namn | Ålder | Stad |
+| Effekt | Kod | Resultat|
 |------|-------|------|
 | Anna | 25    | Lund |
 | Bo   | 32    | Malmö |
