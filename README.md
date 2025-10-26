@@ -1,6 +1,6 @@
-## Formatera-Sidor och Länkar
+# Formatera-Sidor och Länkar
 
-GitHub Flavored Markdown (GFM).
+# GitHub Flavored Markdown (GFM).
 
 Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇
 
