@@ -5,7 +5,7 @@
 Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇  
 
 
-🧱 Grundläggande formatering
+## 🧱 Grundläggande formatering
 
 
 | Effekt | Kod | Resultat|
@@ -18,17 +18,17 @@ Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇
  
  
 
-🧭 Rubriker
+## 🧭 Rubriker
 # Rubrik 1
 ## Rubrik 2
 ### Rubrik 3
 #### Rubrik 4
-Exempel:
-Rubrik 1
-Rubrik 2
-Rubrik 3
+Exempel:  
+Rubrik 1  
+Rubrik 2  
+Rubrik 3  
 
-🔗 Länkar
+## 🔗 Länkar
 Typ	Kod	Exempel
 Enkel länk	[Text](https://example.com)	Example
 Länk med hover-text	[Text](https://example.com "Beskrivning")	Example
