@@ -28,9 +28,11 @@ Rubrik 1
 Rubrik 2  
 Rubrik 3  
 
-## 🔗 Länkar
-Typ	Kod	Exempel
-Enkel länk	[Text](https://example.com)	Example
+## 🔗 Länkar  
+
+| Typ |	Kod |	Exempel  
+| Enkel länk |	[Text] | (https://example.com)	Example |  
+
 Länk med hover-text	[Text](https://example.com "Beskrivning")	Example
 Intern länk i repo	[Länk till README](./README.md)	Länk till README
 Ankarlänk på samma sida	[Gå till toppen](#rubrik-1)	Går till rubriken # Rubrik 1
