@@ -15,7 +15,7 @@ Effekt.....		 Kod			Resultat
 
 | Effekt | Kod | Resultat|
 |------|-------|------|
-| Fetstil | 25    | Lund |
+| Fetstil | **text** eller __text__ 25    | text |
 | Bo   | 32    | Malmö |
 
 
