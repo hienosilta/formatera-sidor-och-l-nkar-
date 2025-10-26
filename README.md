@@ -4,7 +4,21 @@
 
 Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇  
 
+
 🧱 Grundläggande formatering
+
+Effekt		Kod			Resultat  
+│-------│---------│--------------│
+│ Fetstil│ **texr** eller __text__ │  
+│ Kursiv │ *text*   │ eller  _text_ │  
+
+
+| Namn | Ålder | Stad |
+|------|-------|------|
+| Anna | 25    | Lund |
+| Bo   | 32    | Malmö |
+
+
 Effekt	Kod	Resultat
 Fetstil	**text** eller __text__	text
 Kursiv	*text* eller _text_	text
