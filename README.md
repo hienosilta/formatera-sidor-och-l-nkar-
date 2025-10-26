@@ -30,7 +30,7 @@ Rubrik 3
 
 ## 🔗 Länkar  
 
-| Typ |	Kod |	Exempel  
+| Typ ||	Kod ||	Exempel  
 | Enkel länk |	[Text] | (https://example.com)	Example |  
 
 Länk med hover-text	[Text](https://example.com "Beskrivning")	Example
