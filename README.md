@@ -8,7 +8,7 @@ Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇
 
 Effekt	Kod	Resultat  
 Fetstil	**text** eller __text__	text
-Kursiv	*text* eller _text_	text
+Kursiv	*text* eller _text_	text  
 Genomstruket	~~text~~	text
 Fet + kursiv	***text***	text
 Radbrytning	Två mellanslag i slutet av raden	(ny rad)
