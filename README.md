@@ -12,18 +12,6 @@ Genomstruket	~~text~~	text
 Fet + kursiv	***text***	text
 Radbrytning	Två mellanslag i slutet av raden	(ny rad)
 
-
-🧱 Grundläggande formatering
-
-| Effekt | Kod | Resultat |  
-| Effekt | Kod | Resultat |
-|--------|-------|------|
-│Fetstil  │ **text** │ text │
-|Fetstil  **text** __	text
-Anna | 25    | Lund |
-| Bo   | 32    | Malmö |
-
-
 	 
 Fetstil	**text** eller __text__	text
 Kursiv	*text* eller _text_	text  
