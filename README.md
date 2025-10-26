@@ -7,11 +7,6 @@ Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇
 
 🧱 Grundläggande formatering
 
-Effekt.....		 Kod			Resultat  
-│--------│--------------------------│--------------│  
-│ Fetstil│ **texr** eller __text__  │  
-│ Kursiv │ *text*   │ eller  _text_ │  
-
 
 | Effekt | Kod | Resultat|
 |------|-------|------|
