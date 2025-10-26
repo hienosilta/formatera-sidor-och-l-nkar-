@@ -13,26 +13,16 @@ Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇
 | Fetstil | **text** eller __text__     | tex|t |
 | Kursiv   | *text*   | text |  
 | Genomstruken | ~~text~~  |  text |  
-
-
-│ Genomstruken │ ~~text~~  │  text  │   
-
-
-
-Effekt	Kod	Resultat  
-Fetstil	**text** eller __text__	text
-Kursiv	*text* eller _text_	text
-Genomstruket	~~text~~	t
-Fet + kursiv	***text***	text
-Radbrytning	Två mellanslag i slutet av raden	(ny rad)
+| Fet + kursiv  |	***text***  |	text  |   
+| Radbrytning  |Två mellanslag i slutet av raden  |	(ny rad) |
  
-
+ 
+|   
 
 🧱 Grundläggande formatering  
 Effekt			Kod					Resultat  
 Fetstil		**text** 	eller __text__	text
-Kursiv	*text* eller _text_	text
-Genomstruket	~~text~~	text
+Kursiv	*text* ell ext~~	text
 Fet + kursiv	***text***	text
 Radbrytning	Två mellanslag i slutet av raden	(ny rad)
 
