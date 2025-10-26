@@ -6,6 +6,7 @@ Här kommer en tydlig översikt över de viktigaste koderna du kan använda 👇
 
 🧱 Grundläggande formatering
 
+| Effekt | Kod | Resultat |  
 | Effekt | Kod | Resultat |
 |--------|-------|------|
 │Fetstil  │ **text** │ text │
