@@ -15,7 +15,7 @@ Effekt.....		 Kod			Resultat
 
 | Effekt | Kod | Resultat|
 |------|-------|------|
-| Anna | 25    | Lund |
+| Fetstil | 25    | Lund |
 | Bo   | 32    | Malmö |
 
 
